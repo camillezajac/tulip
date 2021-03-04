@@ -8,11 +8,11 @@
   "tokens": [
 {
       "chainId": 1,
-      "address": "0x4023501dD802EA2ca05e25a5bE6E07a95A89693a",
+      "address": "0x2E74f7f578EC097c3D8f8517321ac900AE04af57",
       "name": "tulip",
       "symbol": "TULIP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/tulip.png"
+      "logoURI": "https://raw.githubusercontent.com/camillezajac/tulip/main/tulip.png"
     }
   ],
   "version": {
