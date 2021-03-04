@@ -9,10 +9,10 @@
 {
       "chainId": 1,
       "address": "0x4023501dD802EA2ca05e25a5bE6E07a95A89693a",
-      "name": "crypt",
-      "symbol": "CRYPT",
+      "name": "tulip",
+      "symbol": "TULIP",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/crypt.png"
+      "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/tulip.png"
     }
   ],
   "version": {
