@@ -1,0 +1,23 @@
+{
+  "name": "Extra CheapSwap List",
+  "logoURI": "https://ipfs.io/ipfs/QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2021-02-10T16:00:00.809+00:00",
+  "tokens": [
+{
+      "chainId": 1,
+      "address": "0x4023501dD802EA2ca05e25a5bE6E07a95A89693a",
+      "name": "crypt",
+      "symbol": "CRYPT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/robbyishere/SacHacksCrypto/main/crypt.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  }
+}
