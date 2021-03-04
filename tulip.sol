@@ -22,8 +22,8 @@ interface IERC20 {
 
 contract ERC20Basic is IERC20 {
 
-    string public constant name = "crypt";
-    string public constant symbol = "CRYPT";
+    string public constant name = "tulip";
+    string public constant symbol = "TULIP";
     uint8 public constant decimals = 18;
 
 
